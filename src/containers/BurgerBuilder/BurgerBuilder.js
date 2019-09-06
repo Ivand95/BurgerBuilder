@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Aux from '../../hoc/Auxiliary';
 import Burger from '../../components/Burger/Burger';
 import BuildControls from '../../components/Burger/BuildControls/BuildControls';
-import { updateExpression } from '@babel/types';
 
 const INGREDIENT_PRICES = {
   salad: 0.5,
