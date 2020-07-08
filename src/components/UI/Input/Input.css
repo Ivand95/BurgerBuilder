@@ -21,6 +21,7 @@
 }
 
 .ImputElement:focus {
+  box-sizing: border-box;
   outline: none;
   background-color: #ccc;
 }
